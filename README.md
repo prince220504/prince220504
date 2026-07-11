@@ -119,7 +119,7 @@ React               ██████████░░░░░░░░░░
 ### 🫀 Health Risk Prediction
 
 <a href="https://github.com/prince220504/Health-risk-prediction"><img src="https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://health-risk-predictor-system.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-2ea043?style=for-the-badge" /></a>
+<a href="https://health-risk-prediction-kohl.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-2ea043?style=for-the-badge" /></a>
 
 AI-powered full-stack app predicting **diabetes, heart disease & stroke** probability with interactive dashboard.
 
@@ -168,12 +168,8 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prince220504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince220504&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prince220504&theme=tokyonight" height="165" />
 <img src="https://streak-stats.demolab.com?user=prince220504&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=prince220504&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="95%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince220504&theme=tokyo-night&hide_border=true" width="95%" />
 
