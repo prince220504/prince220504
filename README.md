@@ -119,7 +119,7 @@ React               ██████████░░░░░░░░░░
 ### 🫀 Health Risk Prediction
 
 <a href="https://github.com/prince220504/Health-risk-prediction"><img src="https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://health-risk-prediction-kohl.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-2ea043?style=for-the-badge" /></a>
+<a href="https://health-risk-predictor-system.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-2ea043?style=for-the-badge" /></a>
 
 AI-powered full-stack app predicting **diabetes, heart disease & stroke** probability with interactive dashboard.
 
