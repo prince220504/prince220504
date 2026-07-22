@@ -173,7 +173,7 @@ timeline
 
 <br/><br/>
 
-<sub>⬇️ Self-hosted backups (always load, update nightly) ⬇️</sub>
+<!-- <sub>⬇️ Self-hosted backups (always load, update nightly) ⬇️</sub> -->
 
 <br/><br/>
 
