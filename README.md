@@ -175,8 +175,6 @@ timeline
 
 <!-- <sub>⬇️ Self-hosted backups (always load, update nightly) ⬇️</sub> -->
 
-<br/><br/>
-
 <img src="streak-graph.svg" alt="Streak (self-hosted)" width="95%" />
 <img src="activity-graph.svg" alt="Contribution Calendar (self-hosted)" width="95%" />
 
