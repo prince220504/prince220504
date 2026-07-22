@@ -169,8 +169,7 @@ timeline
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=prince220504&theme=tokyonight&hide_border=true&cache_seconds=200" height="165" />
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince220504&theme=tokyo-night&hide_border=true" width="95%" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince220504&theme=tokyo-night&hide_border=true&v=20260722" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince220504&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
