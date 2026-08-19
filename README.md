@@ -195,7 +195,7 @@ timeline
 
 <div align="center">
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" alt="octocat"/>
+<!-- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150" alt="octocat"/> -->
 
 <br/>
 
