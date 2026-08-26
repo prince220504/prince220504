@@ -22,8 +22,7 @@ class Prince:
         self.name     = "Panchal Prince"
         self.role     = "Python Developer | ML Engineer"
         self.mission  = "Build intelligent apps with ML & AI"
-        self.learning = ["Agentic RAG", "LangGraph", "FastAPI", "React"]
-        self.building = "Indian Tax Assistant 🧾"
+        self.learning = ["Django", "DRF", "AI Agents", "LangGraph"]
 
     def current_status(self):
         return "Probably debugging... it's always the typo 🐛"
@@ -34,8 +33,7 @@ class Prince:
 
 - 🚀 Building **Python web applications** and **machine learning models**
 - 🤖 Shipped projects across **ML prediction, RAG pipelines & AI agents**
-- 🧾 Currently building an **agentic RAG tax assistant** on official Indian govt documents
-- 🌱 Deep-diving into **AI agents** (LangGraph) and **production RAG** pipelines
+- 🌱 Deep-diving into **Django + DRF** and **AI agents** (LangChain / LangGraph)
 - 📫 Reach me: **panchalprince2512@gmail.com**
 
 <br/>
@@ -70,11 +68,11 @@ mindmap
 ## 📈 Learning Loadout — Live Progress
 
 ```text
-Django & DRF        ██████████████░░░░░░  Smart OPD System completed
+Django & DRF        ██████████░░░░░░░░░░  building Smart OPD with it
 Machine Learning    ██████████████░░░░░░  3 models shipped to production
-LangChain / RAG     ██████████████░░░░░░  2 RAG systems built end to end
-AI Agents           ████████████░░░░░░░░  LangGraph agents in production use
-React               ██████████░░░░░░░░░░  frontends for ML + tax assistant
+LangChain / RAG     ████████████░░░░░░░░  study assistant deployed
+AI Agents           ████████░░░░░░░░░░░░  LangGraph quiz agent working
+React               ██████████░░░░░░░░░░  frontend for ML dashboard
 ```
 
 ## 🛠️ Tech Stack
@@ -116,33 +114,7 @@ React               ██████████░░░░░░░░░░
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
-
-### 🧾 Indian Tax Assistant
-
-<a href="https://github.com/prince220504/Indian-Text-Assistant"><img src="https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github" /></a>
-<img src="https://img.shields.io/badge/🔨_Currently_Building-f0a832?style=for-the-badge" />
-
-**Agentic RAG** chatbot answering Indian tax questions straight from official government documents — grounded, cited answers.
-
-`LangGraph` `Groq` `ChromaDB` `FastAPI` `React`
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🏥 Smart OPD System
-
-<a href="https://github.com/prince220504/Smart-Opd-Managment-System"><img src="https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://smart-opd-managment-system.onrender.com/"><img src="https://img.shields.io/badge/🌐_Live_Demo-2ea043?style=for-the-badge" /></a>
-
-Hospital platform — **4-role auth** (Doctor/Receptionist/Lab/Patient), appointment booking, lab reports, prescriptions. **Live on Render.**
-
-`Python` `Django` `DRF` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 🫀 Health Risk Prediction
 
@@ -154,7 +126,19 @@ AI-powered full-stack app predicting **diabetes, heart disease & stroke** probab
 `React` `FastAPI` `Scikit-Learn`
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
+
+### 🏥 Smart OPD System
+
+<a href="https://github.com/prince220504/Smart-Opd-Managment-System"><img src="https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github" /></a>
+<img src="https://img.shields.io/badge/🔨_In_Progress-f0a832?style=for-the-badge" />
+
+Hospital platform — **4-role auth** (Doctor/Receptionist/Lab/Patient), appointments, lab reports, automated reminders.
+
+`Python` `Django` `MySQL`
+
+</td>
+<td width="33%" valign="top" align="center">
 
 ### 🧠 Study Assistant
 
@@ -174,12 +158,10 @@ AI-powered full-stack app predicting **diabetes, heart disease & stroke** probab
 ```mermaid
 timeline
     title From Zero to AI Engineer
-    2025 — Foundations 🐣 : Joined GitHub : Python, C, C++ : First ML experiments in notebooks
-    Early 2026 — First Ship 🫀 : Health Risk Prediction : 3 ML models to production : React + FastAPI full-stack
-    Mid 2026 — Into AI 🧠 : Personal Study Assistant : LangChain RAG for note Q&A : LangGraph stateful quiz agent
-    Aug 2026 — Backend Depth 🏥 : Smart OPD System deployed : Django + DRF, 4-role auth : Live on Render
-    Now — Agentic AI 🧾 : Indian Tax Assistant : Agentic RAG on govt documents : LangGraph + Groq + Chroma
-    Next — Scaling Up 🎯 : Production-grade RAG : Multi-agent systems : Ship bigger, ship sharper
+    2025 : Joined GitHub 🐣 : Learned Python, C, C++ : First ML experiments
+    Early 2026 : Health Risk Prediction 🫀 : Shipped first live ML app : React + FastAPI full-stack
+    Mid 2026 : Personal Study Assistant 🧠 : LangChain RAG + LangGraph agents : Smart OPD System with Django 🏥
+    Next : Master Django + DRF 🎯 : Deeper into AI agents : Bigger AI projects
 ```
 
 ## 📊 GitHub Analytics
